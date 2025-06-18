@@ -39,3 +39,18 @@ Let me know if you’d like any further tweaks!
 
 <br/>
 <hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+<!-- GitHub Stats -->
+![KAVINRAJ06's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KAVINRAJ06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+<!-- GitHub Streak -->
+![KAVINRAJ06's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=KAVINRAJ06&theme=tokyonight&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KAVINRAJ06&theme=tokyonight&hide_border=true&layout=compact)
+</div>
+
+<br/><br/>
