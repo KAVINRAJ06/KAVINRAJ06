@@ -43,6 +43,7 @@ Let me know if you’d like any further tweaks!
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    
 <!-- GitHub Stats -->
 ![KAVINRAJ06's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KAVINRAJ06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
