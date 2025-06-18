@@ -59,10 +59,12 @@ Let me know if you’d like any further tweaks!
 <hr/>
 
 <div align="center">
-  <h2> My Contributions </h2>
+  <h2>My Contributions</h2>
   <br>
 
-<img src="https://github.com/KAVINRAJ06/KAVINRAJ06/blob/output/github-contribution-grid-snake.svg"/>
+  <a href="https://www.gitch.art/share/KAVINRAJ06?color=4682B4">
+    <img src="https://www.gitch.art/api/v1/KAVINRAJ06?color=4682B4" alt="GitHub Contribution Art" />
+  </a>
   
   <br/><br/><br/>
 </div>
