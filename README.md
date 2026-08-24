@@ -32,26 +32,3 @@ I’m **Kavinraj M**, a B.Tech Artificial Intelligence student at **SRMIST** and
   <a href="https://github.com/KAVINRAJ06/Forecastly"><img src="https://img.shields.io/badge/VIEW%20FORECASTLY%20%E2%86%97-F11976?style=for-the-badge&logo=github&logoColor=FFF8E8" alt="View Forecastly" /></a>
   <a href="https://github.com/KAVINRAJ06/BugTriage-AI_Adv"><img src="https://img.shields.io/badge/VIEW%20BUGTRIAGE%20AI%20%E2%86%97-813CF0?style=for-the-badge&logo=github&logoColor=FFF8E8" alt="View BugTriage AI" /></a>
 </p>
-
-## Toolkit
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,pytorch,tensorflow,fastapi,react,mongodb,docker,git,github,vscode&theme=dark" alt="Python, C++, C, MySQL, PyTorch, TensorFlow, FastAPI, React, MongoDB, Docker, Git, GitHub, VS Code" />
-</p>
-
-## By the numbers
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KAVINRAJ06&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=161319&title_color=FFF8E8&text_color=E6DEE9&icon_color=F11976&ring_color=813CF0" alt="Kavinraj's GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KAVINRAJ06&hide_border=true&background=161319&ring=F11976&fire=F49A49&currStreakLabel=FFF8E8&sideLabels=E6DEE9&dates=B8B0BA&currStreakNum=FFF8E8&sideNums=FFF8E8" alt="Kavinraj's GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVINRAJ06&layout=compact&hide_border=true&bg_color=161319&title_color=FFF8E8&text_color=E6DEE9" alt="Kavinraj's top languages" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KAVINRAJ06/KAVINRAJ06/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of Kavinraj's GitHub contribution grid" />
-</p>
-
-<p align="center"><sub>© 2026 Kavinraj M · Built with curiosity and a little aurora glow.</sub></p>
